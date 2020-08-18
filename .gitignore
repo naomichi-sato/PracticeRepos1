@@ -1,0 +1,4 @@
+*.user
+*.filters
+HelloWorld/x64/
+HelloWorld/.vs/
